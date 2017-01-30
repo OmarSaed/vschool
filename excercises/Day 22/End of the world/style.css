@@ -1,0 +1,35 @@
+
+
+#timer {
+    
+    text-align: center;
+    font-size: 100px;
+    color:red;
+}
+#btn-start{
+    
+    margin-left: 400px;
+    margin-top: 50px;
+    display: block;
+    width: 30%;
+    height: 50px;
+    text-align: center;
+    
+}
+
+#text-box{
+    
+    margin-top: 20px;
+    margin-left: 150px;
+    width:70%;
+    height: 30px;
+    border: 0.01px black solid;
+    border-radius: 100px;
+    text-align: center;
+    color:red;
+    font-size:20px;
+}
+img{
+    
+    width:100%;
+}

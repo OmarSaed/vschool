@@ -1,0 +1,54 @@
+body {
+   
+ box-sizing: border-box;
+ margin: 70px;
+    
+}
+
+.firstOne{
+    color:pink;
+    width:1082px;
+    height:150px;
+    background-color: pink;
+    border:8px white solid;
+    
+}
+
+.secondClass {
+    display:inline-block;
+    background-color:firebrick;
+    width:240px;
+    height:150px;
+    border:8px white solid;
+   padding: 8px;
+    
+    
+}
+.thirdClass{
+    border: 8px white solid;
+    background-color:skyblue;
+    width: 515px;
+    height:150px;
+    display:inline-block;
+    padding:8px;
+    
+    
+}
+.fourthOne{
+   display:inline-block;
+    
+    color:pink;
+    width:700px;
+    height:150px;
+    background-color: lightgreen;
+    border : 8px white solid;
+    
+    
+}
+.fifthhOne{
+    background-color: saddlebrown;
+    width:365px;
+    height:150px;
+    display:inline-block;
+    border:8px white solid;
+}

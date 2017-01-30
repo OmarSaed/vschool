@@ -1,0 +1,17 @@
+console.log(temp);
+    
+    for(var j=0 ; j <arr.length ; j++){
+        
+   var sum = Math.sqrt(arr[j]);
+        sum += sum;
+    }
+    console.log(sum);
+    if(sum >= 1){
+    
+    changeIntIntoArrayOfInt(sum);
+    
+}
+else{
+    
+    console.log("its a happy number")
+}

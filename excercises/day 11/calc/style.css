@@ -1,0 +1,112 @@
+.main{
+  box-sizing: border-box;
+    margin: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+    min-width: 300px;
+    height: 350px;
+    border: solid 5px lightgrey;
+    border-radius: 20px;
+    background-color: lightcyan;
+    text-align: center;
+}
+
+.main h1{
+    color:blue;
+    font-family: arial;   
+}
+#first-number{
+    height: 30px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: white ;
+    color: blue;
+    padding: 5px;
+    font-weight: bold;
+      
+}
+#second-number{
+    height: 30px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: white ;
+    color: blue;
+    padding: 5px;
+    font-weight: bold;
+}
+
+
+#plus{
+    
+    height:50px;
+    width: 60px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color:  aqua;
+    border-radius: 10px;
+    box-shadow: left ;
+   
+    
+    
+}
+#plus:hover{
+    
+    background-color: lightgrey;
+    
+}
+#minus{
+    height:50px;
+    width: 60px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color:  aqua;
+    border-radius: 10px;
+}
+#minus:hover{
+    
+ background-color: lightgrey;
+
+}
+#times{
+    height:50px;
+    width: 60px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color:  aqua;
+    border-radius: 10px;
+}
+#times:hover {  
+    background-color: lightgrey;  
+}
+
+#division{
+    height:50px;
+    width: 60px;
+    margin-top: 10px;
+    padding:10px;
+    background-color:  aqua;
+    border-radius: 10px;
+}
+
+#division:hover{
+ background-color: lightgrey;  
+}
+#total{
+    margin-top: 20px;
+    height: 30px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: white ;
+    color: red;
+    padding: 5px;
+    font-weight: bold;
+    font-family: arial-black;
+    
+}

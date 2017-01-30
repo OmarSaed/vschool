@@ -1,0 +1,26 @@
+.firstAttempt{
+    
+    background-color: aqua;
+    font-family: arial;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+#firstOne{
+    
+    color:red;
+    border: 5px ink dashed;
+    margin: 10px;
+    
+}
+
+#secondOne{
+    
+    color:blue;
+    border: 20px red dotted;
+    font-variant-east-asian: normal;
+    
+    
+    
+}

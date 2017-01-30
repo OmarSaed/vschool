@@ -1,0 +1,29 @@
+```var people = [];
+
+$("#submit").click(function() {
+  people.push({
+    name: $("#name").val(),
+    age: $("#age").val()
+  });
+  render();
+  $("#name").val("");
+  $("#age").val("");
+});
+
+
+var render = function() {
+  $(".output").html("");
+  people.sort(function(a, b) {
+    return a.age - b.age;
+  });
+  for(var i = 0; i < people.length; i++) {
+        $(".output").append("<div>Name:" + people[i].name  + " Age: " +  people[i].age +"</div>");
+   };
+}```
+
+[6:22]  
+ ```  people.sort(function(a, b) {
+    var textA = a.name.toUpperCase();
+    var textB = b.name.toUpperCase();
+    return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+  });```

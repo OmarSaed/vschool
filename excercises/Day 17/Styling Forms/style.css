@@ -1,0 +1,17 @@
+#female{
+    
+    display: inline-block;
+    margin-right: 5px;
+    
+    
+}
+#male {
+   
+    padding: 50px;
+    
+
+}
+#btn{
+    text-align: center;
+    margin-left: 500px;
+}

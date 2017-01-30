@@ -1,0 +1,52 @@
+body{
+    
+    margin: 20px;
+ 
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 50px;
+    
+    
+}
+
+
+
+table{
+    
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    background-color: aqua;
+    font-family: arial;
+    text-align: center;
+    border-spacing: 0;
+
+}
+
+td , th {
+    
+    border: 1px solid lightblue;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 10px;
+    
+} 
+th {
+    
+    padding : 25px;
+    
+    
+}
+tr:nth-child(odd){
+    
+    background-color: aliceblue;
+    
+}
+tfoot{
+    
+    background-color: aquamarine;
+    color: blue;
+    font-weight: bold;
+    
+    
+    
+}

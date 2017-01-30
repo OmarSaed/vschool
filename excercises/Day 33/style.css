@@ -1,0 +1,55 @@
+.wrapper {
+    display: block;
+    margin: 50px;
+    width: 400px;
+    height: 500px;
+    background-color: #E91E63;
+    text-align: center;
+    
+}
+h1{
+    color: white;
+    border: 0.01px #F06292 solid;
+    background-color: #F06292 ;
+    padding: 5px;
+
+}
+
+input{
+    
+    margin-top: 10px;
+    height: 30px;
+    text-align: center;
+    color: red;
+    border: 1px white solid;
+    border-radius: 3px;
+    width: 70%;
+    
+    
+}
+button{
+    width:60px;
+    height: 30px;
+    border: 1px white solid;
+    background-color: white;
+    color:firebrick;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+li{
+    width:300px;
+    margin-left: -100px;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+.output button{ 
+ 
+    width: 30px;
+    margin-right: 10px;
+    color: blue;
+    
+
+}

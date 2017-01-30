@@ -1,0 +1,66 @@
+body {
+    
+    margin: 10px;
+    
+    
+}
+
+* {
+    box-sizing: border-box;
+    
+}
+
+.box{
+    
+    width:30%;
+    background-color: aqua;
+    height: 30px;
+    float: left;
+    text-align: center;
+    padding: 5 px;
+    margin: 2px;
+    
+}
+
+.firstnumber {
+    background-color: pink;
+    color: white;
+    border: solid lightpink 2px;
+    
+    
+}
+.operator {
+    
+    background-color: blue;
+    color: red;
+    border: solid white 2px;
+    
+    
+}
+
+.secondnumber{
+    background-color:  red;
+    border: solid white 2px;
+    color: white;
+    
+    
+}
+
+.output {
+     background-color: blueviolet;
+    
+}
+.input {
+    padding: 5px;
+    
+}
+
+.button{
+    
+    background-color: beige;
+    text-align: center;
+    padding : 10px;
+    margin: 15px;
+    
+    
+}

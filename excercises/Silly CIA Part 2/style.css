@@ -1,0 +1,43 @@
+body{
+    margin : 20px 30px 30px 20px;
+}
+
+h1{
+    color: darkgreen;
+}
+
+h1,h3{
+    font-family: georgia;
+    text-align: center;
+}
+
+p {
+    float:right
+    line-height:  25px
+}
+
+a{
+    text-decoration: none;
+    
+    
+    
+}
+
+.One p {
+    
+    text-transform: uppercase;
+    
+    
+}
+
+
+a:hover{
+    text-decoration: underline;
+    
+}
+
+img {
+ margin-right: 20px;
+    float: left;
+    
+}

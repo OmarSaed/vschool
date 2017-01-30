@@ -1,0 +1,41 @@
+.first-class{
+    
+    margin: 100px;
+    background-color: grey;
+    border:0.01px solid cyan;
+    border-radius: 100px;
+    height:500px;
+    
+   
+}
+
+#input{
+    
+    text-align: center;
+    padding: 5px;
+    margin-top:100px;
+   margin-left: 120px;
+    
+    
+    
+}
+
+#html{
+    
+    text-align: center;
+    padding: 5px;
+    margin-top:100px;
+   margin-left: 120px;
+    
+    
+    
+}
+#button{
+    text-align: center;
+    padding: 5px;
+    border: 1px white solid;
+    border-radius: 2px;
+    
+    
+    
+}

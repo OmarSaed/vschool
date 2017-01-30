@@ -1,0 +1,86 @@
+{
+    "appetizers":[{
+     "name":"Fatoosh",
+     "ing":["letuce" , "Cucmber" , "tomato"],
+     "dec":"some really tasty vegetable salad"
+        },{
+            "name":"nachos",
+            "ing":["cheese","sous","potato"],
+            "dec":"some Really Tasty and soft cheesey potato"
+        },
+        {
+            "name":"Tabooleh",
+            "ing":["letuce","bakdoons","tomato","lemon juice"],
+            "dec": "Tasty salad from lebanon"
+            
+        }
+     ],
+    "Cold Sandwiches":[{
+        "name" :"jbneh",
+        "ing":["milk","tomato","something"],
+        "dec" :"cold jebneh sandwich"
+         }
+         {
+        "name" :"labneh",
+        "ing":["milk","tomato","something"],
+        "dec" :"cold jebneh sandwich"
+         },
+                         {
+        "name" :"zaatar",
+        "ing":["thym","tomato","something"],
+        "dec" :"cold jebneh sandwich"
+         },
+         ]
+    ,
+    "Hot Sandwiches":[{
+        "name" :"Shawrma",
+        "ing":["Meat","tomato","Sous"],
+        "dec" :"Tasty Turkish Food"
+         },
+         {
+        "name" :"Steak",
+        "ing":["Beaf","Saus","something"],
+        "dec" :"Hot Chilli sandwich"
+         },
+                         {
+        "name" :"Fries",
+        "ing":["Potato","Ketchup","Salad"],
+        "dec" :"Hot Fried  sandwich"
+         },
+        
+         ],
+    ,
+    "Dessets":[{
+        "name" :"any",
+        "ing":["some","with","other"],
+        "dec" :"just eat pls"
+         },
+         {
+        "name" :"vanilla",
+        "ing":["java","for","if"],
+        "dec" :"just for coders"
+         }
+        
+         ]
+     ,
+    "Drinks":[{
+        "name" :"Pepsi",
+        "ing":["Really","dont","know"],
+        "dec" :"Carbonated water"
+         },
+         {
+        "name" :"Orange Juice",
+        "ing":["Orangre","for","water"],
+        "dec" :"fresh orange juice"
+         }
+        
+         ]
+    
+    
+    
+    
+    
+}
+    
+    
+    

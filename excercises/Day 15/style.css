@@ -1,0 +1,47 @@
+.navbar1{
+    
+    margin-bottom: -20px;
+    color:white;
+    
+}
+.nav-nav{
+   
+    padding: 0PX 100px; 
+    background-color: #2c3e50;
+    margin-bottom:0px;
+    vertical-align: top;
+    
+}
+
+.row{
+   background-position: top;
+    margin-top: 0px ;
+    background-color: #18bc9c;
+    height: 400px;
+    text-align: center;
+    
+    
+}
+p{ 
+    font-size: 35px;
+    color: white;
+    
+}
+#one{ 
+ font-size: 15px;
+}
+
+img{
+    padding: 5px;
+}
+.navbar-header{
+    padding : 0px 50px;
+    
+    
+}
+
+
+a {
+    color: white !important;
+    text-decoration: none;
+}

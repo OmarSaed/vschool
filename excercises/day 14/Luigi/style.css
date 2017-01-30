@@ -1,0 +1,49 @@
+
+.ornage{
+   padding: 20px;
+    height: 150;
+    background-color: darkorange;
+    font-family: Bauhaus 93 ;
+    font-weight: bold;
+    font-size: 70;
+    color: firebrick;
+    
+    
+}
+.firebrick{
+    padding: 20px;
+    background-color: firebrick;
+    text-align: center;
+    height:400px;
+      
+}
+.white{
+    text-align: center;
+    font-family: Work Sans ;
+    color: firebrick;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+#firstOne{
+    font-size: 30px;
+    line-height: 50px;
+    font-weight: bold;
+
+}
+.orange{
+    
+    background-color: orange;
+    height: 50px;
+    
+    
+}
+#one{ 
+
+float: right;
+
+}
+@font-face {
+      font-family: "Bitstream Vera Serif Bold";
+      src: url(http://dl.dafont.com/dl/?f=super_mario_256);
+    }
